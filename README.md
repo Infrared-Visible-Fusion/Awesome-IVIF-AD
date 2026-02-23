@@ -1,2 +1,2 @@
 # Awesome-IVIF-AD
-<img src='image/cover.png' width=400 /> 
+<img src='image/cover.png' width=500 /> 
