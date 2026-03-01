@@ -61,7 +61,6 @@
 *(Note: The `#` in the Code column indicates that the official source code for that particular paper has not yet been publicly released by the authors or requires contacting them directly.)*
 
 ## Single IVIF 
-<img src='image/fusion_generation.png' width=800 /> 
 
 * 2025 - **RSTFuse**: Resolution-Switchable Transformer for Image Fusion
 * 2024 - **MambaDFuse**: A Mamba-based Dual-Phase Model for Multi-Modality Image Fusion [[Code](https://github.com/Lizhe1228/MambaDFuse)]
@@ -70,7 +69,6 @@
 * 2019 - **DenseFuse**: A Fusion Approach to Infrared and Visible Images [[Code](https://github.com/hli1221/imagefusion_densefuse)]
 
 ## IVIF-based Object Detection
-<img src='image/detection.png' width=800 /> 
 
 * 2025 - **Text-DFH**: Language-Guided Target-Aware Feature Harmonization for Visible-Infrared Object Detection
 * 2024 - **E2E-MFD**: Towards End-to-End Synchronous Optimization for Multispectral Pedestrian Detection [[Code](https://github.com/icey-zhang/E2E-MFD-HOD)]
